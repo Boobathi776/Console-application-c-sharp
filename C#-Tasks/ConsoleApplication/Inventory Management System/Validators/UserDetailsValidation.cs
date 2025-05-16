@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
 {
-    internal class UserInputValidation
+    internal class UserDetailsValidation
     {
         public static int GetUserId()
         {
@@ -34,11 +34,11 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
             try
             {
                 string productNamePattern = @"^[A-Z][a-z]+([- ][A-Z][a-z]*)*$";
-                Console.WriteLine("Enter a User name (Ex : Boobathi A [first and initial letter capital]): ");
+                Console.Write("Enter a User name (Ex : Boobathi A [first and initial letter capital]): ");
                 string productName = Console.ReadLine();
                 while (string.IsNullOrWhiteSpace(productName) || productName.Length == 2 || !Regex.IsMatch(productName, productNamePattern))
                 {
-                    Console.WriteLine("Enter a valid user name : ");
+                    Console.Write("Enter a valid user name : ");
                     productName = Console.ReadLine();
                 }
                 return productName;
@@ -54,6 +54,7 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
         {
             try
             {
+                Console.Write("Enter a 10 digit mobile number : ");
                 string mobileNumber = Console.ReadLine();
                 string mobileNumberPattern = @"^(\+91|0)?[6-9][0-9]{9}$";
                 while(!Regex.IsMatch((string)mobileNumber, mobileNumberPattern))
@@ -74,9 +75,10 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
         {
             try
             {
+                Console.Write("Enter you mail ID : ");
                 string email = Console.ReadLine();
                 string mailPattern = @"^[0-9a-zA-Z.+-_%]+@gmail\.com$";
-                while(!Regex.IsMatch((string)email, mailPattern))
+                while(!Regex.IsMatch(email, mailPattern))
                 {
                     Console.Write("Enter a valid gmail id : ");
                     email = Console.ReadLine();

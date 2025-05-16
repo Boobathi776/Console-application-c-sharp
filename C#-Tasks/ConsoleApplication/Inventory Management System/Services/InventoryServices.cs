@@ -74,6 +74,22 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Services
             } while (choice != 7);
         }
 
+        public void BillGeneratorMenu()
+        {
+            ReadFromTextFile();
+            Console.ForegroundColor = ConsoleColor.Red;
+            Console.Write("Enter the Option:\nSearch by PRODUCT NAME Enter (\"y\")\nSearch by CATEGORY Enter (\"n\")\n");
+            Console.ResetColor();
+            string proceed = InputValidation.GetYesOrNoForProceed();
+            if (proceed == "y") SearchProduct();
+            else if (proceed == "n") SearchByCategory();
+            else
+            {
+                Console.WriteLine("Invalid choice...");
+                return;
+            }
+        }
+
         public void AddProduct()
         {
             try
@@ -230,7 +246,7 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Services
         {
             try
             {
-                Console.Write("Enter a product Id or name : ");
+                Console.Write("Enter a product Id or name (Ex:Milk = mil) : ");
                 string productIdOrName = Console.ReadLine().ToLower();
                 if (int.TryParse(productIdOrName, out int productId))
                 {
@@ -264,18 +280,7 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Services
                     Console.WriteLine("\nThese are the products that matched with the given word\n");
                     DisplayProducts(matchedProducts);
 
-                    //for billing
-                    Console.WriteLine("Choose the product that you want from the above list of products by enter ID...");
-                    productId = InputValidation.GetProductId();
-                    Products matchedProduct = InputValidation.GetMatchedProduct(productId, products);
-                    while (matchedProduct == null)
-                    {
-                        Console.WriteLine("Invalid product Id... so Enter a valid one..!");
-                        productId = InputValidation.GetProductId();
-                        matchedProduct = InputValidation.GetMatchedProduct(productId, products);
-                    }
-                    Console.WriteLine($"\t{"Product ID",-12}{"Product name",-20}{"Category",-15}{"Unit price",-12}{"Quantity",-8}");
-                    matchedProduct.DisplayProductDetails();
+                    
                 }
             }
             catch (Exception e)
@@ -298,9 +303,10 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Services
                 {
                     categorizedProducts = products.Where(product => product.Category == inputProductCategory).ToList();
                 }
-                if (categorizedProducts != null)
+                var uniqueProducts = categorizedProducts.Distinct().ToList();
+                if (uniqueProducts != null)
                 { 
-                   DisplayProducts(categorizedProducts);
+                   DisplayProducts(uniqueProducts);
                 }
                 else
                 {
@@ -319,7 +325,7 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Services
             try
             {
                 string filePath = Path.Combine(InventoryManagementDirecotry, "Product details.txt");
-                using(StreamWriter writer = new StreamWriter(filePath))
+                using(StreamWriter writer = new StreamWriter(filePath,false))
                 {
                     writer.WriteLine($"{"Product ID",-12},{"Product name",-20},{"Category",-15},{"Unit price",-12},{"Quantity",-8}");
                     foreach (Products product in products)
@@ -344,7 +350,6 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Services
         {
             try
             {
-                Console.WriteLine("started reading..");
                 string filePath = Path.Combine(InventoryManagementDirecotry, "Product Details.txt");
                 using (StreamReader reader = new StreamReader(filePath))
                 {
@@ -389,7 +394,6 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Services
                         lineCount++;
                     }
                 }
-                Console.WriteLine("Reading ended..");
             }
             catch(DirectoryNotFoundException e)
             {

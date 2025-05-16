@@ -41,7 +41,7 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
             try
             {
                 string productNamePattern = @"^[A-Z][a-z]+([- ]*[A-Z]*[a-z]*)*$";
-                Console.WriteLine("Enter a product name (Ex : Milk): ");
+                Console.Write("Enter a product name (Ex : Milk): ");
                 string productName=Console.ReadLine();
                 while(string.IsNullOrWhiteSpace(productName) || productName.Length == 2 || !Regex.IsMatch(productName,productNamePattern))
                 {
@@ -64,13 +64,15 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
                 int categoryNumber;
                 var categories = Enum.GetValues(typeof(productCategory));
                 int i = 1;
+                Console.ForegroundColor = ConsoleColor.DarkCyan;
                 foreach (var productCategory in categories)
                 {
                     Console.Write($"({i}){productCategory,-15}");
                     if (i%4==0) Console.WriteLine();
                     i++;
                 }
-                Console.Write("\nEnter the category number : ");
+                Console.ResetColor();
+                Console.Write("\n\nEnter the category number : ");
                 string inputCategoryNumber = Console.ReadLine();
                 while(!int.TryParse(inputCategoryNumber, out  categoryNumber))
                 {
@@ -100,11 +102,11 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
             try
             {
                 decimal productPrice;
-                Console.Write($"Enter a unit price {productName}");
+                Console.Write($"Enter a unit price {productName} : ");
                 string inputPrice = Console.ReadLine();
                 while(!decimal.TryParse(inputPrice,out productPrice) || productPrice < 0)
                 {
-                    Console.Write($"Enter a valid price for {productName}");
+                    Console.Write($"Enter a valid price for {productName} : ");
                     inputPrice = Console.ReadLine();
                 }
                 return productPrice;
@@ -121,7 +123,7 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
             try
             {
                 int quantity;
-                Console.Write("Enter a quantity");
+                Console.Write("Enter a quantity : ");
                 string inputQuantity = Console.ReadLine();
                 while(!int.TryParse(inputQuantity,out quantity) || quantity < 0)
                 {
@@ -155,7 +157,7 @@ namespace Tasks.ConsoleApplication.Inventory_Management_System.Validators
             try
             {
                 int option;
-                Console.Write($"Enter your choice(1-{range}):");
+                Console.Write($"Enter your choice(1-{range}) : ");
                 string inputChoice = Console.ReadLine();
                 while (!int.TryParse(inputChoice, out option) || option < 0 || option > range)
                 {

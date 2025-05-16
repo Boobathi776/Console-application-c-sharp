@@ -1,0 +1,10 @@
+Transaction no : 95
+Product ID  |Product name        |price          |quantity    
+14          |Socks               |854            |4           
+Total amount : 3416
+Date and time :2025-05-16 18:23:44
+Transaction no : 73
+Product ID  |Product name        |price          |quantity    
+2           |Headphones          |810            |2           
+Total amount : 1620
+Date and time :16-05-2025 18:42:32
