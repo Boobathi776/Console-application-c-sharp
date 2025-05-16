@@ -22,6 +22,7 @@
   <ItemGroup>
     <Folder Include="ConsoleApplication\Employee management system\Employee excel files\" />
     <Folder Include="ConsoleApplication\FileManager\Data files\" />
+    <Folder Include="ConsoleApplication\Inventory Management System\Data files\User transaction file\" />
     <Folder Include="ConsoleApplication\Inventory Management System\Error log files\" />
     <Folder Include="ConsoleApplication\Library Book management system\Error log files\" />
     <Folder Include="Practice 2\Excel File handling\Files\" />

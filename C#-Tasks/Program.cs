@@ -109,8 +109,11 @@ class Program
         //BookService bookService = new BookService();
         //bookService.Librarian();
 
-      InventoryServices inventoryServices = new InventoryServices();
-      inventoryServices.InventoryService();
+        //InventoryServices inventoryServices = new InventoryServices();
+        //inventoryServices.InventoryService();
+
+        EcommerceService ecommerceService = new EcommerceService();
+        ecommerceService.EcommerceSystem();
 
 
     }
