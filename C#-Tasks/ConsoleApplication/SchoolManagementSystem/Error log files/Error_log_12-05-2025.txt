@@ -1,0 +1,1672 @@
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 142
+Date and Time : 12-05-2025 05-00-32
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-13-22
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-29-37
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-30
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-30-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-32-38
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-08
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-34-56
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-36-26
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-36-26
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-36-27
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-37-29
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-39-16
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-41-51
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 93
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 133
+Date and Time : 12-05-2025 05-45-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 05-54-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 124
+Date and Time : 12-05-2025 05-54-25
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 05-57-19
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 05-59-15
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 124
+Date and Time : 12-05-2025 05-59-15
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 124
+Date and Time : 12-05-2025 05-59-15
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 06-06-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-06-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-06-09
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 06-12-31
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 127
+Date and Time : 12-05-2025 06-12-31
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 127
+Date and Time : 12-05-2025 06-12-31
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 06-15-46
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-15-46
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-15-46
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 06-16-43
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-16-43
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-16-43
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 12-05-2025 06-17-36
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-17-36
+
+==========================================================================================================================
+
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 125
+Date and Time : 12-05-2025 06-17-36
+
+==========================================================================================================================
+

@@ -1,0 +1,217 @@
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace : 
+   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:20:30
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace : 
+   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:20:30
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace : 
+   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:20:30
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace : 
+   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:20:30
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace : 
+   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:20:30
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace : 
+   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:20:30
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace : 
+   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:20:30
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:21:02
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:21:02
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:21:02
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:21:02
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:21:02
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:21:02
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:21:02
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:51:40
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:51:40
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:51:40
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:51:40
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:51:40
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:51:41
+
+==========================================================================================================================================
+
+
+==========================================================================================================================================
+
+Error : Exception of type 'Tasks.Practice.InvalidStringException' was thrown.
+Soucrce :C#-Tasks
+Stack Trace :   at Tasks.Practice.RegularExpressionPractice.PasswordValidation(String password) in D:\Azure-Assignment\C#-Tasks\C#-Tasks\Practice\RegularExpressionPractice.cs:line 70
+date and time : 12-05-2025 Monday May 02:51:41
+
+==========================================================================================================================================
+

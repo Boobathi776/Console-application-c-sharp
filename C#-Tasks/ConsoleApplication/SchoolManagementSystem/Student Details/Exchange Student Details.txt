@@ -1,0 +1,6 @@
+3,Guhan R,90:89:90:89:90,pass
+4,Govandan N A,99:90:89:90:99,pass
+5,Azhagoviyan A,99:89:90:89:90,pass
+6,Arumugam K,100:100:100:100:100,pass
+8,Dinesh R,99:99:99:99:99,pass
+7,Anbu G K,90:90:90:90:90,pass

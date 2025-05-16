@@ -1,0 +1,99 @@
+Product ID  ,Product name        ,Category       ,Unit price  ,Quantity
+1           ,Bread               ,Groceries      ,91          ,7       
+2           ,Headphones          ,Electronics    ,810         ,18      
+3           ,Toaster             ,HomeAppliances ,295         ,16      
+4           ,Tyre                ,Automotive     ,963         ,7       
+5           ,Car Toy             ,Toys           ,237         ,16      
+6           ,TV                  ,Electronics    ,595         ,23      
+7           ,Fan                 ,HomeAppliances ,537         ,9       
+8           ,Blocks              ,Toys           ,755         ,20      
+9           ,Subscription        ,Others         ,94          ,6       
+10          ,Smartphone          ,Electronics    ,216         ,50      
+11          ,Notebook            ,Stationery     ,862         ,12      
+12          ,Microwave           ,HomeAppliances ,231         ,13      
+14          ,Socks               ,Clothing       ,854         ,16      
+15          ,Eggs                ,Groceries      ,702         ,1       
+16          ,Wallet              ,Accessories    ,638         ,9       
+17          ,Keychain            ,Others         ,191         ,14      
+18          ,Sofa                ,Furniture      ,269         ,12      
+19          ,Shirt               ,Clothing       ,487         ,4       
+20          ,Marker              ,Stationery     ,452         ,3       
+21          ,Puzzle              ,Toys           ,442         ,1       
+22          ,Bag                 ,Others         ,926         ,20      
+23          ,Brake Pad           ,Automotive     ,927         ,24      
+24          ,Belt                ,Accessories    ,998         ,24      
+25          ,Blender             ,HomeAppliances ,711         ,16      
+26          ,Laptop              ,Electronics    ,901         ,33      
+27          ,T-shirt             ,Clothing       ,686         ,4       
+28          ,Gift Card           ,Others         ,120         ,10      
+29          ,Milk                ,Groceries      ,386         ,21      
+30          ,Thermometer         ,HealthCare     ,870         ,8       
+31          ,Fan                 ,HomeAppliances ,763         ,1       
+32          ,Mask                ,HealthCare     ,143         ,25      
+33          ,Puzzle              ,Toys           ,153         ,23      
+34          ,Marker              ,Stationery     ,893         ,3       
+35          ,Sunglasses          ,Accessories    ,263         ,13      
+36          ,Gift Card           ,Others         ,186         ,6       
+37          ,Camera              ,Electronics    ,183         ,2       
+38          ,Bed                 ,Furniture      ,198         ,18      
+39          ,Doll                ,Toys           ,524         ,43      
+40          ,Pen                 ,Stationery     ,507         ,24      
+41          ,Milk                ,Groceries      ,688         ,29      
+42          ,Sanitizer           ,HealthCare     ,718         ,29      
+43          ,Sugar               ,Groceries      ,654         ,18      
+44          ,Engine Oil          ,Automotive     ,100         ,13      
+45          ,Thermometer         ,HealthCare     ,89          ,23      
+46          ,Laptop              ,Electronics    ,810         ,9       
+47          ,Fan                 ,HomeAppliances ,391         ,20      
+48          ,Toaster             ,HomeAppliances ,960         ,9       
+49          ,Voucher             ,Others         ,313         ,6       
+50          ,Eggs                ,Groceries      ,751         ,6       
+51          ,TV                  ,Electronics    ,765         ,15      
+52          ,Pants               ,Clothing       ,559         ,30      
+53          ,Bread               ,Groceries      ,780         ,20      
+54          ,Car Toy             ,Toys           ,341         ,32      
+55          ,Fan                 ,HomeAppliances ,820         ,1       
+56          ,Doll                ,Toys           ,350         ,34      
+57          ,Seat Cover          ,Automotive     ,395         ,27      
+58          ,Notebook            ,Stationery     ,658         ,14      
+59          ,Curd                ,Groceries      ,501         ,2       
+60          ,Cupboard            ,Furniture      ,187         ,3       
+61          ,Sanitizer           ,HealthCare     ,456         ,19      
+62          ,Blocks              ,Toys           ,122         ,4       
+63          ,Watch               ,Accessories    ,411         ,39      
+64          ,Wiper               ,Automotive     ,409         ,7       
+65          ,Shirt               ,Clothing       ,690         ,6       
+66          ,Marker              ,Stationery     ,123         ,20      
+67          ,Laptop              ,Electronics    ,540         ,27      
+68          ,Bed                 ,Furniture      ,985         ,6       
+69          ,Curd                ,Groceries      ,779         ,29      
+70          ,Gloves              ,HealthCare     ,471         ,6       
+71          ,Microwave           ,HomeAppliances ,977         ,1       
+72          ,Gift Card           ,Others         ,187         ,17      
+73          ,Socks               ,Clothing       ,363         ,10      
+74          ,Puzzle              ,Toys           ,645         ,10      
+75          ,Pen                 ,Stationery     ,84          ,1       
+76          ,Camera              ,Electronics    ,431         ,0       
+77          ,Notebook            ,Stationery     ,849         ,2       
+78          ,Sugar               ,Groceries      ,337         ,6       
+79          ,Fan                 ,HomeAppliances ,411         ,23      
+80          ,Sanitizer           ,HealthCare     ,726         ,7       
+82          ,Seat Cover          ,Automotive     ,742         ,38      
+83          ,Doll                ,Toys           ,258         ,9       
+84          ,Bread               ,Groceries      ,323         ,35      
+85          ,Fan                 ,HomeAppliances ,316         ,15      
+86          ,Eggs                ,Groceries      ,976         ,3       
+87          ,Voucher             ,Others         ,426         ,7       
+88          ,Belt                ,Accessories    ,258         ,6       
+89          ,Socks               ,Clothing       ,427         ,4       
+90          ,Gift Card           ,Others         ,780         ,4       
+91          ,Blocks              ,Toys           ,473         ,26      
+92          ,Notebook            ,Stationery     ,600         ,25      
+93          ,Eggs                ,Groceries      ,846         ,15      
+94          ,Watch               ,Accessories    ,935         ,32      
+95          ,TV                  ,Electronics    ,967         ,9       
+96          ,Eraser              ,Stationery     ,418         ,0       
+97          ,Chair               ,Furniture      ,715         ,30      
+98          ,Sanitizer           ,HealthCare     ,797         ,29      
+99          ,Tyre                ,Automotive     ,988         ,14      
+100         ,Bread               ,Groceries      ,154         ,3       

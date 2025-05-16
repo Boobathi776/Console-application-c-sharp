@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<RootNamespace>Tasks</RootNamespace>
+	<LangVersion>preview</LangVersion>
+	  <EnableWindowsFormsSupport>true</EnableWindowsFormsSupport>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.104.2" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="3.3.0" />
+    <PackageReference Include="EPPlus" Version="8.0.3" />
+    <PackageReference Include="itext7" Version="9.1.0" />
+    <PackageReference Include="PDFsharp" Version="6.1.1" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ConsoleApplication\Employee management system\Employee excel files\" />
+    <Folder Include="ConsoleApplication\FileManager\Data files\" />
+    <Folder Include="ConsoleApplication\Inventory Management System\Error log files\" />
+    <Folder Include="ConsoleApplication\Library Book management system\Error log files\" />
+    <Folder Include="Practice 2\Excel File handling\Files\" />
+    <Folder Include="Practice\Error log files\" />
+  </ItemGroup>
+
+</Project>

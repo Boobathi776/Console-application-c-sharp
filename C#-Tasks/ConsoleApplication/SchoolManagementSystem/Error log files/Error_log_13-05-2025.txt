@@ -1,0 +1,11 @@
+
+==========================================================================================================================
+
+Source : C#-Tasks 
+Error : Index was outside the bounds of the array.
+StackTrace : 
+   at Tasks.SchoolManagementSystem.Services.StudentServices.ReadFromFile() in D:\Azure-Assignment\C#-Tasks\C#-Tasks\ConsoleApplication\SchoolManagementSystem\Services\StudentServices.cs:line 84
+Date and Time : 13-05-2025 09-48-08
+
+==========================================================================================================================
+
